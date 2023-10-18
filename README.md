@@ -3,3 +3,4 @@ originをtokenで突破する。
 static/js/ltsmSandbox.jsの28行目 2063794行  
 ここに <=これで検索掛けても出る  
 
+H: breakpointで値を探る
